@@ -3,7 +3,7 @@ iOS and Android app
 
 DogBreeds101 is a Cordova app developed by Joshua O'Connor in the summer of 2015.  It is currently on the Google Play Store and the App Store.  
 
-Google Play Store:  https://play.google.com/store/apps/details?id=us.joshoconnor.DogBreeds101
+Google Play Store:  https://play.google.com/store/apps/details?id=us.joshoconnor.DogBreeds101 <br>
 App Store:  https://itunes.apple.com/us/app/dog-breeds-101/id1023939746?ls=1&mt=8
 
 It is written in HTML5, CSS3, JavaScript, and JQuery Mobile.
